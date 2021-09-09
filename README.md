@@ -7,7 +7,7 @@
 
   
 
-- 🔭 I’m currently working on [analyzing history of olympics.](https://github.com/1SagarSharma7/History-Of-Olympics)
+- 🔭 I’m currently working on [analyzing the history of olympics.](https://github.com/1SagarSharma7/History-Of-Olympics)
 
   
 
