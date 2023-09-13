@@ -1,5 +1,6 @@
 
 
+
   <h1  align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px"  alt="hi">, I'm Sagar Sharma</h1>
   
   
@@ -7,11 +8,11 @@
 
   
 
-- 🔭 I’m currently working on [analyzing the history of olympics.](https://github.com/1SagarSharma7/History-Of-Olympics)
+- 🔭 I’m currently working on [clone instagram end to end.](https://github.com/1SagarSharma7/History-Of-Olympics)
 
   
 
-- 🌱 I’m currently learning **Exploratory Data Analysis(EDA).**
+- 🌱 I’m currently learning **AWS Solutions Architect - Associate Certificate **
 
   
 
@@ -19,11 +20,11 @@
 
   
 
-- 💬 Ask me about **mongodb, EDA, power bi, nodejs.**
+- 💬 Ask me about **react, springboot, mysql, aws.**
 
   
 
-- 📫 How to reach me **1sagarsharma7@gmail.com**
+- 📫 How to reach me **sagarsanjaysharma007@gmail.com**
 
   
 
