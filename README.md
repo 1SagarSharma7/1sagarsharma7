@@ -1,11 +1,11 @@
 
+<div style="text-align: center; font-size: 1.5rem; font-weight:bold;">
+  Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Sagar Sharma
+</div>
 
-  <p style="font-size: 5em; font-weight: bold; text-align: center; " >Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px"  alt="hi">, I'm Sagar Sharma</p>
-  
-  
-<p style="font-size: 1.0em; font-weight: bold; text-align: center; " align="center">I spend most of my time learning new technologies or building projects on them.</p>
-
-  
+<div style="text-align: center;">
+  I spend most of my time learning new technologies or building projects on them.
+</div>
 
 - 🔭 I’m currently working on [analyzing the history of olympics.](https://github.com/1SagarSharma7/History-Of-Olympics)
 
@@ -26,7 +26,7 @@
 - 📫 How to reach me **sagarsanjaysharma007@gmail.com**
 
 
-<h3 align="left">Profiles:</h3>
+### Profiles:
 <p align="left">
 <a href="https://linkedin.com/in/sagar-sharma-93b91826a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-sharma-93b91826a" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/1sagarsharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1sagarsharma7" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 <p align="left"> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
