@@ -1,6 +1,6 @@
 
 
-  <h1  align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px"  alt="hi">, I'm Sagar Sharma</h1>
+  <p  align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px"  alt="hi">, I'm Sagar Sharma</p>
   
   
 <h3  align="center">I spend most of my time learning new technologies or building projects on them.</h3>
