@@ -1,11 +1,8 @@
 
-<div style="text-align: center; font-size: 1.5rem; font-weight:bold;">
-  Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Sagar Sharma
-</div>
 
-<div style="text-align: center;">
-  I spend most of my time learning new technologies or building projects on them.
-</div>
+  **Hi** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"  width="28px"  alt="hi">**, I'm Sagar Sharma**
+
+**I spend most of my time learning new technologies or building projects on them.**
 
 - 🔭 I’m currently working on [analyzing the history of olympics.](https://github.com/1SagarSharma7/History-Of-Olympics)
 
